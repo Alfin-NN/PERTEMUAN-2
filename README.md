@@ -1,8 +1,8 @@
 # PERTEMUAN-2 (BANK SAMPAH)
 
-Nama : Azkia Alfin Zulfikar
-Nim : 1124160251
-Kelas : TI SE 24 Malam
+Nama : Azkia Alfin Zulfikar.
+Nim : 1124160251.
+Kelas : TI SE 24 Malam.
 
 
 Karena 0.2 lebih kecil dari 0.5, kondisi tersebut terpenuhi (true), sehingga status yang tercetak adalah pesan gagal.
