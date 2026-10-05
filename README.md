@@ -1,8 +1,13 @@
-# PERTEMUAN-2
-Bank Sampah
+# PERTEMUAN-2 (BANK SAMPAH)
+
+Nama : Azkia Alfin Zulfikar
+Nim : 1124160251
+Kelas : TI SE 24 Malam
+
 
 Karena 0.2 lebih kecil dari 0.5, kondisi tersebut terpenuhi (true), sehingga status yang tercetak adalah pesan gagal.
 Jika ingin statusnya berhasil, ubah nilai input saat memanggil fungsinya menjadi 0.5 atau lebih besar (misal: cetakStatusSetoran(2.0)).
+
 
 ```dart
 String cekValidasiSampah(String jenis) {
