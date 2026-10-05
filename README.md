@@ -2,7 +2,6 @@
 Bank Sampah
 
 Karena 0.2 lebih kecil dari 0.5, kondisi tersebut terpenuhi (true), sehingga status yang tercetak adalah pesan gagal.
-
 Jika ingin statusnya berhasil, ubah nilai input saat memanggil fungsinya menjadi 0.5 atau lebih besar (misal: cetakStatusSetoran(2.0)).
 
 ```dart
